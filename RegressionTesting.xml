@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "D:\EclipseWorkspace\SS\testng-1.0.dtd">
+<suite parallel="false" name="MySuite">
+  <test name="MyTest">
+    <classes>
+       <class name="seleniumSS.TestNG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
